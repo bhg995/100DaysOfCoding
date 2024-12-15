@@ -23,6 +23,7 @@ elif choice[randomChoice] == "paper" and play == "scissors":
 elif choice[randomChoice] == "rock" and play == "paper":
     print("You win")
 
+# Instructor's solution
 # rock = '''
 #     _______
 # ---'   ____)
