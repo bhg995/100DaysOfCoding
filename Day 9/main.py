@@ -1,3 +1,6 @@
+'''
+Auctioning antiques
+'''
 
 import art
 
